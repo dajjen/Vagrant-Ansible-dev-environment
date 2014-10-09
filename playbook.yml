@@ -1,0 +1,7 @@
+-
+  hosts: all
+  sudo: yes
+  tasks:
+    - name: Install htop
+      apt: pkg=htop state=installed
+
