@@ -1,1 +1,11 @@
+# Vagrant
 .vagrant
+
+# Python
+bin/
+build/
+include/
+lib/
+local/
+.pyc
+
